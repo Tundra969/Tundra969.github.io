@@ -21,6 +21,7 @@ body {
   border: 3px solid #660000;
   height: 300px;
   width: auto;
+  box-shadow: 2px 4px 5px #000;
 }
 
 h1 {
@@ -55,10 +56,6 @@ h5 {
 .date {
   float: right;
   margin-right: 20px;
-}
-
-#summary-content {
-  font-style: italic;
 }
 
 .jump.up {
